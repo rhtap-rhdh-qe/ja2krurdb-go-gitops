@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: ja2krurdb-go-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/ja2krurdb-go
